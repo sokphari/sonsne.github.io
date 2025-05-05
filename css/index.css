@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#school{
+    width:60px;
+    height:60px;
+}
+.nav-link{
+    font-size:20px;
+}
+.card , img{
+    width: 25%;
+    height: 70vh;
+}
